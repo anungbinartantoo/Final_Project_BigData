@@ -1,10 +1,10 @@
 # 📱 Final Project Big Data - Prediksi Harga Handphone
 
 # 🧠 Dibuat oleh
-- Anung Binartanto - 23.11.5520
-- Arya Kusuma Wijaya - 23.11.5554
-- Cleova Calista Aziza Kayviar - 23.11.5532
-- Eria Syalwa - 23.11.5535
+- Anung Binartanto 23.11.5520
+- Arya Kusuma Wijaya 23.11.5554
+- Cleova Calista Aziza Kayviar 23.11.5532
+- Eria Syalwa 23.11.5535
 
 Mata Kuliah: Big Data & Predictive Analytics 
 Universitas Amikom Yogyakarta
